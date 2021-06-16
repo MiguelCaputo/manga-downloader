@@ -1,2 +1,2 @@
 # manga-downloader
-Manga Downloader that uses Mangakakalot and Manganelo
+Pyhton Webscrapper that downloads manga using Mangakakalot and Manganelo
