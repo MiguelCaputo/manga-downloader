@@ -1,2 +1,2 @@
 # manga-downloader
-Manga Downloader
+Manga Downloader that uses Mangakakalot and Manganelo
